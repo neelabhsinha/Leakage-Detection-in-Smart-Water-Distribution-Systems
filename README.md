@@ -10,7 +10,7 @@ Further, the data was carefully analysed to study the dependence of various para
 
 The files in this respository include -
 - Data
-- Model.ipynb : Analysis of Data, Training the model, Testing the model
+- Analysis_and_Model.ipynb : Analysis of Data, Training the model, Testing the model
 
 Results obtained -
 - Accuracy: 92%
