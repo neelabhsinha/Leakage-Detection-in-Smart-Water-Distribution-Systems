@@ -2,14 +2,18 @@
 
 This project was done in CSIR-CEERI, Pilani in the Cyber Physical Systems department under the mentorship of Principal Scientist [Dr. Bhausaheb Ashoke Botre](https://www.ceeri.res.in/profiles/bhausaheb-ashok-botre/). 
 
-A major chunk of project involved the study of Leakage Detection techniques, and then, conducting experiments on a physical testbed (existing in CSIR-CEERI, Pilani) which has a pipeline network with all relevant sensors installed, which mimics the arrangement of a typical water distribution network. PLC and SCADA system is installed for control and data collection.
+### Elements of the Project -
 
-Thereafter, data was collected by conducting experiments by simulating various types of leak and studying the behaviour of the system.
+- A major chunk of project involved the study of Leakage Detection techniques, and then, conducting experiments on a physical testbed (existing in CSIR-CEERI, Pilani) which has a pipeline network with all relevant sensors installed at various places, which mimics the arrangement of a typical water distribution network. PLC and SCADA system is installed for control and data collection.
 
-Further, the data was carefully analysed to study the dependence of various parameters at various nodes on a leak, and study of how these parameters are interdependent. Further, an ANN based model was trained to after carefully deciding the features which classifies a state of operation as leak or not a leak.
+- Thereafter, data was collected by conducting experiments by simulating various types of leak and studying the behaviour of the system.
 
-The files in this respository include -
-- Data
+- Further, the data was carefully analysed to study the dependence of various parameters at various nodes on a leak, and study of how these parameters are interdependent. Further, deciding features were extracted which were to be used as inputs for the classification.
+
+- An ANN based model was trained to after carefully deciding the features (which were temperature, pressure, flow rate and vibration at different nodes of the network) which classifies a state of operation as leak or not a leak.
+
+### Included Files with the repository -
+- Data : A portion of used Data to observe the nature
 - Analysis_and_Model.ipynb : Analysis of Data, Training the model, Testing the model
 
 ### Results -
