@@ -12,8 +12,11 @@ The files in this respository include -
 - Data
 - Analysis_and_Model.ipynb : Analysis of Data, Training the model, Testing the model
 
-Results obtained -
-- Accuracy: 92%
-- Precision - 92.5%
-- Recall - 90.7%
-- F1-score - 91.4%
+### Results -
+
+Metric | Value (%)
+-------|----------
+Accuracy | 92%
+Precision | 92.5%
+Recall | 90.7%
+F1-score | 91.4%
