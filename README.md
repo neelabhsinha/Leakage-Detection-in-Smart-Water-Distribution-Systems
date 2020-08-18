@@ -18,6 +18,17 @@ Data - Data was collected experimentally from an IOT-based Smart Water Grid test
 - Data : A portion of used Data to observe the nature
 - Analysis_and_Model.ipynb : Analysis of Data, Training the model, Testing the model
 
+### Feature Dependency -
+
+Only the % dependency of leak on various parameters are shown here. Individual Data Analysis graphs and visualizations can be seen from [Visualizations](https://github.com/neelabhsinha/Leakage-Detection-in-Smart-Water-Distribution-Systems/tree/master/Visualizations) Folder.
+
+<img src="/Visualizations/Feature Extraction.PNG"/>
+
+### Model -
+
+<img src="/Visualizations/Model Block.PNG"/>
+
+
 ### Results -
 
 Metric | Value (%)
