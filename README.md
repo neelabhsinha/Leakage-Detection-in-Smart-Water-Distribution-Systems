@@ -1,6 +1,6 @@
 # Leakage-Detection-in-Smart-Water-Distribution-Systems
 
-This project was done in CSIR-CEERI, Pilani in the Cyber Physical Systems department under the mentorship of Principal Scientist [Dr. Bhausaheb Ashoke Botre](https://www.ceeri.res.in/profiles/bhausaheb-ashok-botre/). 
+This project was done in CSIR-CEERI, Pilani in the Cyber Physical Systems department under the mentorship of Principal Scientist [Dr. Bhausaheb Ashoke Botre](https://www.ceeri.res.in/profiles/bhausaheb-ashok-botre/). This repository contains the coding aspect of the project, where the collected data is used for training an ANN model to detect leakage.
 
 Data - Data was collected experimentally from an IOT-based Smart Water Grid testbed and thus can't be shared publically.
 
